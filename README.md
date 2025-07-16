@@ -11,6 +11,10 @@ Designed and implemented core modules for land acquisition tracking, beneficiary
 - Integrated payment APIs for disbursing R&R compensation.
 - Developed user dashboards using ASP.NET WebForms and SQL stored procedures.
 - Ensured secure role-based access for 2000+ users.
+- Token-based digital signature integration using E-Mudra
+- Secure document processing with PDF signing
+- Workflow automation for land acquisition and R&R processes
+- Role-based user access and audit compliance
 
 ## Challenges Solved
 - Migrated large datasets from legacy systems.
